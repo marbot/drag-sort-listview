@@ -20,14 +20,7 @@ Copyright 2012 Andreas Schildbach
     <groupId>com.mobeta.android.dslv</groupId>
     <artifactId>drag-sort-listview</artifactId>
     <packaging>apklib</packaging>
-    <version>0.6.2-SNAPSHOT</version>
-
-    <parent>
-        <groupId>com.mobeta.android.dslv</groupId>
-        <artifactId>parent</artifactId>
-        <version>0.6.2-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
-    </parent>
+    <version>0.6.1-gradle</version>
 
     <dependencies>
         <dependency>
