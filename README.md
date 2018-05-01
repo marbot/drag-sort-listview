@@ -1,3 +1,8 @@
+
+This fork allows to build a proper apklib release of the library, using the build tools 27.0.3. Using this apklib instead of the old official one avoid build issues with android 7.0 and greater.
+
+----------------------
+
 DragSortListView
 ================
 
